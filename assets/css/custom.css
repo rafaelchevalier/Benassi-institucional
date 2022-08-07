@@ -1,1 +1,9 @@
 /* Add here all your css styles (customizations) */
+.altura_div {
+    height: 100%;
+}
+.fonte_cursiva{
+    /*font-family: "Pacifico", cursive;*/
+    font-family: cursive;
+    
+}
